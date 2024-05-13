@@ -29,13 +29,8 @@ module.exports = {
     ],
 
     sidebar: [
-      { title: "Home", path: "/" },
-      { title: "Disclaimer", path: "/disclaimer" },
-      { title: "Terms and conditions", path: "/tnc" },
-      { title: "Privacy Policy", path: "/privacy" },
-      { title: "Imprint", path: "/imprint" },
-      { title: "FAQ", path: "/faq" },
       { title: "Overview", path: "/overview" },
+      { title: "FAQ", path: "/faq" },
     ],
   },
 
