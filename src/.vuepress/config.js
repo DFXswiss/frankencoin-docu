@@ -30,7 +30,7 @@ module.exports = {
 
     sidebar: [
       { title: "Overview", path: "/overview" },
-      { title: "⚖️ Governance", path: "/governance" },
+      { title: "⚖️  Governance", path: "/governance" },
       { title: "FAQ", path: "/faq" },
     ],
   },
