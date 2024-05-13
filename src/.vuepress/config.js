@@ -30,6 +30,7 @@ module.exports = {
 
     sidebar: [
       { title: "🧀  Overview", path: "/overview" },
+
       { title: "🌁  Stablecoin Bridges", path: "/swap" },
 
       { title: "💰  Collateralized Minting", path: "/positions",
@@ -41,7 +42,13 @@ module.exports = {
         ],
       },
 
-      { title: "🏦  Reserve", path: "/reserve" },
+      { title: "🏦  Reserve", path: "/reserve",
+        children: [
+          "/reserve/borrowers-reserve",
+          "/reserve/bridge-reserve",
+          "/reserve/pool-shares",
+        ],
+      },
       { title: "⚖️  Governance", path: "/governance" },
       { title: "⁉️  FAQ", path: "/faq" },
     ],
