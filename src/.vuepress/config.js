@@ -9,7 +9,7 @@ module.exports = {
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
     ["script", { type: "text/javascript", src: "https://cdn.weglot.com/weglot.min.js" }],
-    ["script", {}, `Weglot.initialize({ api_key: 'wg_641101d8c524e0c20811d8a007f8cef56' });`],
+    ["script", {}, `Weglot.initialize({ api_key: 'wg_7f9157a1a49a3f646f90478c579242547' });`],
   ],
 
   themeConfig: {
