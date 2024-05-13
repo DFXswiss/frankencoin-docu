@@ -8,8 +8,6 @@ There are three types of reserves in the Frankencoin system. The first one consi
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>The Frankencoin "balance sheet"</p></figcaption></figure>
-
 </div>
 
 If the Frankencoin system was a company, its balance sheet would roughly look as shown above. On the asset side, the system has all the stablecoins that reside in bridges (**x**), it has given loans to minters that they need to repay (**m**), and it has a number of ZCHF in its reserves (**r**). On the liabilities side, there are all the Frankencoins in circulation (**z**), the reserve (**b**) it owes to the minters, and the equity (**e**) owned by the pool share holders.
