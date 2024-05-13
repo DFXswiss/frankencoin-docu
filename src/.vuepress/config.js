@@ -29,13 +29,30 @@ module.exports = {
     ],
 
     sidebar: [
-      { title: "Home", path: "/" },
-      { title: "Disclaimer", path: "/disclaimer" },
-      { title: "Terms and conditions", path: "/tnc" },
-      { title: "Terms of use", path: "/tou" },
-      { title: "Privacy Policy", path: "/privacy" },
-      { title: "Imprint", path: "/imprint" },
-      { title: "FAQ", path: "/faq" },
+      { title: "🧀  Overview", path: "/overview" },
+
+      { title: "🌁  Stablecoin Bridges", path: "/swap" },
+
+      { title: "💰  Collateralized Minting", path: "/positions",
+        children: [
+          "/positions/adjust",
+          "/positions/auctions",
+          "/positions/clone",
+          "/positions/open",
+        ],
+      },
+
+      { title: "🏦  Reserve", path: "/reserve",
+        children: [
+          "/reserve/borrowers-reserve",
+          "/reserve/bridge-reserve",
+          "/reserve/pool-shares",
+        ],
+      },
+
+      { title: "⚖️  Governance", path: "/governance" },
+
+      { title: "⁉️  FAQ", path: "/faq" },
     ],
   },
 
