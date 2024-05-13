@@ -32,7 +32,6 @@ module.exports = {
       { title: "Home", path: "/" },
       { title: "Disclaimer", path: "/disclaimer" },
       { title: "Terms and conditions", path: "/tnc" },
-      { title: "Terms of use", path: "/tou" },
       { title: "Privacy Policy", path: "/privacy" },
       { title: "Imprint", path: "/imprint" },
       { title: "FAQ", path: "/faq" },
