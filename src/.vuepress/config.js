@@ -36,6 +36,7 @@ module.exports = {
       { title: "Privacy Policy", path: "/privacy" },
       { title: "Imprint", path: "/imprint" },
       { title: "FAQ", path: "/faq" },
+      { title: "Overview", path: "/overview" },
     ],
   },
 
