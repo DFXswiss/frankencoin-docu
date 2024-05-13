@@ -29,9 +29,12 @@ module.exports = {
     ],
 
     sidebar: [
-      { title: "Overview", path: "/overview" },
+      { title: "🧀  Overview", path: "/overview" },
+      { title: "🌁  Stablecoin Bridges", path: "/swap" },
+      { title: "💰  Collateralized Minting", path: "/minting" },
+      { title: "🏦  Reserve", path: "/reserve" },
       { title: "⚖️  Governance", path: "/governance" },
-      { title: "FAQ", path: "/faq" },
+      { title: "⁉️  FAQ", path: "/faq" },
     ],
   },
 
