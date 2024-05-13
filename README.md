@@ -1,3 +1,2 @@
-# docs.frankencoin.app
-
-Documents for frankencoin.app Community
+# frankencoin-docu
+Documentation for Frankencoin.com
