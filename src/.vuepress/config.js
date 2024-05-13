@@ -13,18 +13,18 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: "DFXswiss/frankencoin-docs",
+    repo: "DFXswiss/frankencoin-docu",
     logo: "/assets/logo.svg",
     editLinks: true,
     editLinkText: "Edit this page on Github",
-    docsBranch: "develop",
+    docsBranch: "dev",
     docsDir: "src",
     lastUpdated: true,
 
     nav: [
       {
-        text: "Frankencoin.app",
-        link: "https://frankencoin.app",
+        text: "Frankencoin.com",
+        link: "https://frankencoin.com",
       },
     ],
 

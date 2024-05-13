@@ -1,13 +1,13 @@
 {
-  "name": "frankencoinApp-documents",
+  "name": "frankencoin-docu",
   "version": "0.0.1",
-  "description": "Documents for frankencoin.app",
+  "description": "Documentation for frankencoin.com",
   "main": "index.js",
   "authors": {
     "name": "DFX",
     "email": "info@dfx.swiss"
   },
-  "repository": "https://github.com/DFXswiss/frankencoin-docs",
+  "repository": "https://github.com/DFXswiss/frankencoin-docu",
   "scripts": {
     "start": "vuepress dev src",
     "build": "vuepress build src"
