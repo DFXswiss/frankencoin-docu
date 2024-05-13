@@ -49,7 +49,9 @@ module.exports = {
           "/reserve/pool-shares",
         ],
       },
+
       { title: "⚖️  Governance", path: "/governance" },
+
       { title: "⁉️  FAQ", path: "/faq" },
     ],
   },
