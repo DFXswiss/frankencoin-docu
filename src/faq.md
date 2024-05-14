@@ -1,8 +1,5 @@
----
-description: Some questions we think might get frequently asked.
----
-
 # ⁉️ Background FAQ
+Some questions we think might get frequently asked.
 
 ### What is this all about?
 
