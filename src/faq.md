@@ -1,5 +1,5 @@
 # ⁉️ Background FAQ
-Some questions we think might get frequently asked.
+**Some questions we think might get frequently asked.**
 
 ### What is this all about?
 
