@@ -1,10 +1,7 @@
----
-description: >-
-  Immediately mint Frankencoins by cloning an established position that is not
-  maxed out.
----
-
 # Cloning Existing Positions
+
+**Immediately mint Frankencoins by cloning an established position that is not
+  maxed out.**
 
 This is the standard way to obtain Frankencoins against a collateral. Unlike creating an entirely new position, which takes a lot of time, borrowing by cloning an established position can be done immediately. To do so, find an existing position that is based on your collateral of choice and that is not maxed out yet, i.e. where the borrowed total is below the limit.
 
