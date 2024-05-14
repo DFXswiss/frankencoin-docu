@@ -1,10 +1,7 @@
----
-description: >-
-  Challenges and the resulting auctions are a mechanism to ensure positions are
-  backed by sound collateral.
----
-
 # Challenges and Auctions
+
+**Challenges and the resulting auctions are a mechanism to ensure positions are
+  backed by sound collateral.**
 
 ## Auction Design
 
