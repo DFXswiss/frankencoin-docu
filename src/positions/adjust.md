@@ -1,6 +1,6 @@
 # Adjusting a Position
 
-How to adjust a position
+**How to adjust a position**
 
 Once you are the proud owner of a position whose cooldown period has passed, you can start to adjust it. You can adjust the outstanding amount, the amount of the deposited collateral, and the liquidation price. Every input field has a magic wand button that automatically sets the value to whatever makes most sense given the other two values.
 
