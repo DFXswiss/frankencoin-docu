@@ -5,6 +5,7 @@
 There are three types of reserves in the Frankencoin system. The first one consists of other Swiss franc stablecoins that reside in a bridge, the second one consists of funds provided by the borrowers when they mint new Frankencoins, and the third one is provided by the holders of reserve pool shares. The collateral used to mint Frankencoin is not considered reserve as it conceptually stays outside the "balance sheet" of the Frankencoin system.
 
 <div data-full-width="true">
+![Reserve](https://github.com/DFXswiss/frankencoin-docu/assets/169650174/1bd9e6b0-d7bf-4e04-bd0d-c0fb0daff99f)
 
 </div>
 
