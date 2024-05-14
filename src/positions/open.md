@@ -1,8 +1,6 @@
----
-description: How to propose completely new positions with any collateral.
----
-
 # Opening New Positions
+
+**How to propose completely new positions with any collateral.**
 
 For now, it is not possible to open new positions through the frontend. But bold degens can do so on Etherscan or through their other tool of choice. This page explains the meaning of all the parameters and provides some guidance on what kind of position should be rejected by the pool share holders. For criteria that collateral tokens should fulfill, have a look at the [acceptable collateral](https://github.com/Frankencoin-ZCHF/FrankenCoin/discussions/11) page. Most of the time, the preferred way of creating a position is not to open a new one, but to clone an existing one, which is described on the next page.
 
