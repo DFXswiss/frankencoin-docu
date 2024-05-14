@@ -1,10 +1,7 @@
----
-description: >-
-  A guide for reserve pool share holders on how they should use their veto
-  power.
----
-
 # ⚖️ Governance
+
+ **A guide for reserve pool share holders on how they should use their veto
+  power.**
 
 The governance system is subject to the following rules:
 
