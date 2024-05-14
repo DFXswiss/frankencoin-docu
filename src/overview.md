@@ -1,8 +1,5 @@
----
-description: Introducing the two tokens and the overall structure of the system
----
-
 # 🧀 Overview
+Introducing the two tokens and the overall structure of the system
 
 ## Structure and Purpose
 
