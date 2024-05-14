@@ -1,8 +1,6 @@
----
-description: The three types of reserves that help with stabilizing the system.
----
-
 # 🏦 Reserve
+
+**The three types of reserves that help with stabilizing the system.**
 
 There are three types of reserves in the Frankencoin system. The first one consists of other Swiss franc stablecoins that reside in a bridge, the second one consists of funds provided by the borrowers when they mint new Frankencoins, and the third one is provided by the holders of reserve pool shares. The collateral used to mint Frankencoin is not considered reserve as it conceptually stays outside the "balance sheet" of the Frankencoin system.
 
