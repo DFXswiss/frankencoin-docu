@@ -1,10 +1,7 @@
----
-description: >-
-  Simple contracts that allow swapping other Swiss franc stablecoins into
-  Frankencoin and back.
----
-
 # 🌁 Stablecoin Bridges
+
+Simple contracts that allow swapping other Swiss franc stablecoins into
+  Frankencoin and back.
 
 The swap page allows you to other recognizes Swiss franc stablecoins against Frankencoins and back. Moving back into other stablecoins is only possible as long as there it some of the other stablecoin left in the bridge contract. Essentially, this pegs the Frankencoin 1:1 to other stablecoins and helps stabilizing its value. In order to protect the Frankencoin from a crash of the connected stablecoins, the bridge contract is limited in time and volume. After a year the latest, it needs to be replaced with a new contract.
 
