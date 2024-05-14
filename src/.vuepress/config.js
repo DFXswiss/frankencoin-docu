@@ -35,10 +35,10 @@ module.exports = {
 
       { title: "💰  Collateralized Minting", path: "/positions",
         children: [
+          "/positions/open",
+          "/positions/clone",
           "/positions/adjust",
           "/positions/auctions",
-          "/positions/clone",
-          "/positions/open",
         ],
       },
 
