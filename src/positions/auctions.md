@@ -3,7 +3,7 @@
 **Challenges and the resulting auctions are a mechanism to ensure positions are
   backed by sound collateral.**
 
-**Auction Design**
+### Auction Design
 
 Challenging a position triggers an auction of the collateral. The auction serves two purposes, the determination of the market price and the liquidation of the collateral at that market price. The auction frees the system from the need of an external oracle. The difficulty lies in designing the auction such that it cannot be profitably manipulated.
 
