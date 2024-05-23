@@ -14,7 +14,6 @@ module.exports = {
 
   themeConfig: {
     repo: "DFXswiss/frankencoin-docu",
-    repoLabel: "",
     logo: "/assets/logo.svg",
     editLinks: true,
     editLinkText: "Edit this page on Github",
